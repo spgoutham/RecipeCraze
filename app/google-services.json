@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "871021108504",
+    "project_id": "recipecraze-ce4d1",
+    "storage_bucket": "recipecraze-ce4d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871021108504:android:9e796bf7cf7bc359e4d26d",
+        "android_client_info": {
+          "package_name": "com.example.recipecraze"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChBar8rWfi_QzycrItk28ouf6fTzcMuEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

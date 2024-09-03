@@ -1,0 +1,6 @@
+
+// Include the app module
+include(":app")
+
+// Set the root project name
+rootProject.name = "RecipeCraze"
